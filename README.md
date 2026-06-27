@@ -2,6 +2,8 @@
 
 A simple, draggable task tracker for [Übersicht](http://tracesof.net/uebersicht/) — add tasks with a category and a time range, filter by category, page through days, and track what's overdue, right on your desktop.
 
+![screenshot](screenshot.png)
+
 ## Installation
 
 1. Install [Übersicht](http://tracesof.net/uebersicht/) if you haven't already.
